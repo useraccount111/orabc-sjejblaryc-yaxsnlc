@@ -4,6 +4,8 @@ public class orabc {
       
       if (finished == false) {
           System.out.println("not done quite yet");
+      } else if (finished == true) {
+          System.out.println("this is done yh");
       } else {
           System.out.println("wip, this is yet to be finished");
       }
